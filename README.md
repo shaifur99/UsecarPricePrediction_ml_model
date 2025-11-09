@@ -84,9 +84,5 @@ pip install -r requirements.txt
 python car_price_prediction.py
 
 # 📂 Project Structure
-    ├── data/                       # Dataset (CSV file)
-├── notebooks/                  # Jupyter notebooks
-├── models/                     # Saved models
-├── car_price_prediction.py     # Main script
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
+<img width="588" height="186" alt="image" src="https://github.com/user-attachments/assets/5d6d9f5e-30a4-4656-a117-3c0c54cefd51" />
+
